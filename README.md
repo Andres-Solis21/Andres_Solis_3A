@@ -1,5 +1,7 @@
 # Andres_Solis_3A
-NOMBRE DEL ALUMNO: Jose Andres Solis Cabrera
-NOMBRE DEL DOCENTE: Pedro Said Vara Chacón
-GRUPO: 3 A
-MATERIA: Programacion Orientada a Objetos 
+Programación Orientada a Objetos
+Información del Curso
+Alumno: Jose Andres Solis Cabrera
+Docente: Pedro Said Vara Chacón
+Grupo: 3 A
+Materia: Programación Orientada a Objetos
